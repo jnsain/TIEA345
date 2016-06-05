@@ -1,9 +1,9 @@
 # Demo 2
 
-## Koodit tulevat näkyville kun pääsen raspin ääreen maanantai-iltana
+### Koodit tulevat näkyville kun pääsen raspin ääreen maanantai-iltana
 
 ## Oppimispäiväkirja
-Tehtävät tuntuivat aluksi vaikeilta, koska kun olen kytkentöjä tehnyt on
+Tehtävät tuntuivat aluksi vaikeilta, koska siitä kun olen kytkentöjä tehnyt on
 pitkä aika ja silloin tuntui vaikealta. Parin ekan tehtävän mallit auttoivat
 kuitenkin saamaan juonesta kiinni, joten viimeiset liikennevalotehtävät
 sujuivat nopeasti. Mielestäni tehtävä oli todella hyvin suunniteltu myös niitä
@@ -12,15 +12,15 @@ vaikutti omissa ajatuksissa vaikealta, mutta se olikin yllättävän
 yksinkertaista.
 
 ## Tehtävät
--**[x] Tehtävä 3**, ledi
--**[x] Tehtävä 4**, lue painiketta ja liikkeentunnistinta
--**[x] Tehtävä 5**, liikennevalot
+- [x] ** Tehtävä 3**, ledi
+- **[x] Tehtävä 4**, lue painiketta ja liikkeentunnistinta
+- **[x] Tehtävä 5**, liikennevalot
   - Liikennevalot tein melko pitkälti samaan tapaan kuin kahdessa aiemmassa
   tehtävässä. Yhdistin joka ledin omaan pinniinsä ja käytin tehtävä 4:n
   nappulan toteutusta sellaisenaan. Sitten raspin puolella annoin virtaa
   oikeisiin pinneihin.
--**[x] Bonus 3**, merkkivalo
--**[x] Bonus 4**, liikkeentunnistin liikennevaloihin
+- **[x] Bonus 3**, merkkivalo
+- **[x] Bonus 4**, liikkeentunnistin liikennevaloihin
   - Toteutin edellistehtävän valon vilkuttamisen silmukalla johon tässä
   vaiheessa lisäsin myös liikkeen tunnistamisen. Pieneksi ngelmaksi muodostui se,
   että valon piti vilkkua niin kauan, että vihreä valo on syttynyt, jolloin
