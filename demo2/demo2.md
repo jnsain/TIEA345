@@ -12,15 +12,15 @@ vaikutti omissa ajatuksissa vaikealta, mutta se olikin yllättävän
 yksinkertaista.
 
 ## Tehtävät
-- **[x] Tehtävä 3**, ledi, [t3.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/t3.fzz) 
-- **[x] Tehtävä 4**, lue painiketta ja liikkeentunnistinta, [t4.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/t4.fzz) 
-- **[x] Tehtävä 5**, liikennevalot, [t5.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/t5.fzz)
+- **[x] Tehtävä 3**, ledi, [t3.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/t3.fzz) [d2t3.py](https://github.com/jnsain/TIEA345/blob/master/demo2/d2t3.py)
+- **[x] Tehtävä 4**, lue painiketta ja liikkeentunnistinta, [t4.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/t4.fzz) [d2t4.py](https://github.com/jnsain/TIEA345/blob/master/demo2/d2t4.py)
+- **[x] Tehtävä 5**, liikennevalot, [t5.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/t5.fzz) [d2t5.py](https://github.com/jnsain/TIEA345/blob/master/demo2/d2t5.py)
   - Liikennevalot tein melko pitkälti samaan tapaan kuin kahdessa aiemmassa
   tehtävässä. Yhdistin joka ledin omaan pinniinsä ja käytin tehtävä 4:n
   nappulan toteutusta sellaisenaan. Sitten raspin puolella annoin virtaa
   oikeisiin pinneihin.
-- **[x] Bonus 3**, merkkivalo, [bonus3.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/bonus3.fzz)
-- **[x] Bonus 4**, liikkeentunnistin liikennevaloihin, [bonus4.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/bonus4.fzz)
+- **[x] Bonus 3**, merkkivalo, [bonus3.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/bonus3.fzz) [d2bonus3.py](https://github.com/jnsain/TIEA345/blob/master/demo2/d2bonus3.py)
+- **[x] Bonus 4**, liikkeentunnistin liikennevaloihin, [bonus4.fzz](https://github.com/jnsain/TIEA345/blob/master/demo2/bonus4.fzz) [d2bonus4.py](https://github.com/jnsain/TIEA345/blob/master/demo2/d2bonus4.py)
   - Toteutin edellistehtävän valon vilkuttamisen silmukalla johon tässä
   vaiheessa lisäsin myös liikkeen tunnistamisen. Pieneksi ngelmaksi muodostui se,
   että valon piti vilkkua niin kauan, että vihreä valo on syttynyt, jolloin
