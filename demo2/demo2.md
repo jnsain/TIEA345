@@ -1,7 +1,5 @@
 # Demo 2
 
-### Koodit tulevat näkyville kun pääsen raspin ääreen maanantai-iltana
-
 ## Oppimispäiväkirja
 Tehtävät tuntuivat aluksi vaikeilta, koska siitä kun olen kytkentöjä tehnyt on
 pitkä aika ja silloin tuntui vaikealta. Parin ekan tehtävän mallit auttoivat
