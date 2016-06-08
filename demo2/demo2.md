@@ -26,3 +26,4 @@ yksinkertaista.
   ja suorittaa jo toista aliohjelmaa. Toteutin siis vilkutuksen "kahdessa osassa",
   jolloin vilkkujen v‰liin j‰‰ pari rivi‰ koodia, mutta ihmissilm‰ ei kuitenkaan
   huomaa viivett‰. T‰h‰n olisi varmaan voinut olla parempikin ratkaisu :-)
+  **[Video Bonus 4 -teht‰v‰st‰](https://youtu.be/949u9-5Tq6o)**
